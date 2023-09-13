@@ -20,9 +20,9 @@
 	<project path="arm-trusted-firmware"	name="foundriesio/arm-trusted-firmware.git"  revision="refs/heads/xlnx-v2.7-versal"/>
 
 	<!-- Xilinx gits -->
-	<project path="u-boot"			name="Xilinx/u-boot-xlnx.git"	revision="refs/tags/xilinx-v2022.1"/>
-	<project path="linux"			name="Xilinx/linux-xlnx.git"	revision="refs/tags/xilinx-v2022.1"/>
-	<project path="bootgen"			name="Xilinx/bootgen.git"	revision="refs/tags/xilinx_v2022.1"/>
+	<project path="u-boot"			name="Xilinx/u-boot-xlnx.git"	revision="refs/tags/xilinx-v2023.1"/>
+	<project path="linux"			name="Xilinx/linux-xlnx.git"	revision="refs/tags/xilinx-v2023.1"/>
+	<project path="bootgen"			name="Xilinx/bootgen.git"	revision="refs/tags/xilinx_v2023.1"/>
 
 	<!-- Misc gits -->
 	<project path="buildroot"		name="buildroot/buildroot.git" revision="refs/tags/2022.11.1" clone-depth="1" />
